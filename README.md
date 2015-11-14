@@ -1,5 +1,5 @@
 # sequential_plotter
-A matplotlib sequential plotter for data.
+A matplotlib sequential plotter for data. Made this a while back and figured it might be a bit helpful. Can't hurt to share!
 
 This is a simple plotter that allows an individual to plot multiple histograms sequentially, but not simultaneously.
 Make sure you have all libraries that are imported.
